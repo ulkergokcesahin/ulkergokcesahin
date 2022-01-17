@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ulkergokcesahin
-- 👀 I’m ingterested in developing
+- 👀 I’m interested in developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
